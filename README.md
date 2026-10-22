@@ -1,4 +1,4 @@
-# Naol Takele — Developer Portfolio
+# Naol Takele — Personal Portfolio
 
 A responsive, accessible portfolio built with HTML, CSS, and vanilla JavaScript. It has no build step or framework.
 
